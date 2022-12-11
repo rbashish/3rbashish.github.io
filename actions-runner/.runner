@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 24,
+  "agentName": "AZ-GJ8VFER9",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/okZDyHW4FaGlgThOV4XaWT7s0z4adscobM2TweqtV7dRUuEPO6",
+  "gitHubUrl": "https://github.com/rbashish/rbashish.github.io",
+  "workFolder": "_work"
+}
