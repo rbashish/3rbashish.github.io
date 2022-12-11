@@ -32,5 +32,4 @@ jobs:
         DJANGO_ALLOWED_HOSTS: django.rbashish.tech
         DEBUG_MODE: True
       run: |
-        cd home
         python manage.py test
